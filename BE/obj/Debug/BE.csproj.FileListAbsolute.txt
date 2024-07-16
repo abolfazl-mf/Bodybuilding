@@ -1,0 +1,11 @@
+D:\Users\PGSHCO\source\repos\Body Building Club\BE\bin\Debug\BE.dll
+D:\Users\PGSHCO\source\repos\Body Building Club\BE\bin\Debug\BE.pdb
+D:\Users\PGSHCO\source\repos\Body Building Club\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\Users\PGSHCO\source\repos\Body Building Club\BE\obj\Debug\BE.dll
+D:\Users\PGSHCO\source\repos\Body Building Club\BE\obj\Debug\BE.pdb
+E:\Users\PGSHCO\source\repos\Body Building Club\BE\bin\Debug\BE.dll
+E:\Users\PGSHCO\source\repos\Body Building Club\BE\bin\Debug\BE.pdb
+E:\Users\PGSHCO\source\repos\Body Building Club\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+E:\Users\PGSHCO\source\repos\Body Building Club\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+E:\Users\PGSHCO\source\repos\Body Building Club\BE\obj\Debug\BE.dll
+E:\Users\PGSHCO\source\repos\Body Building Club\BE\obj\Debug\BE.pdb

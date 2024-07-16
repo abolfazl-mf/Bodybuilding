@@ -1,0 +1,14 @@
+D:\Users\PGSHCO\source\repos\Body Building Club\DAL\bin\Release\DAL.dll.config
+D:\Users\PGSHCO\source\repos\Body Building Club\DAL\bin\Release\DAL.dll
+D:\Users\PGSHCO\source\repos\Body Building Club\DAL\bin\Release\DAL.pdb
+D:\Users\PGSHCO\source\repos\Body Building Club\DAL\bin\Release\BE.dll
+D:\Users\PGSHCO\source\repos\Body Building Club\DAL\bin\Release\EntityFramework.dll
+D:\Users\PGSHCO\source\repos\Body Building Club\DAL\bin\Release\EntityFramework.SqlServer.dll
+D:\Users\PGSHCO\source\repos\Body Building Club\DAL\bin\Release\BE.pdb
+D:\Users\PGSHCO\source\repos\Body Building Club\DAL\bin\Release\EntityFramework.xml
+D:\Users\PGSHCO\source\repos\Body Building Club\DAL\bin\Release\EntityFramework.SqlServer.xml
+D:\Users\PGSHCO\source\repos\Body Building Club\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+D:\Users\PGSHCO\source\repos\Body Building Club\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\Users\PGSHCO\source\repos\Body Building Club\DAL\obj\Release\DAL.csproj.CopyComplete
+D:\Users\PGSHCO\source\repos\Body Building Club\DAL\obj\Release\DAL.dll
+D:\Users\PGSHCO\source\repos\Body Building Club\DAL\obj\Release\DAL.pdb

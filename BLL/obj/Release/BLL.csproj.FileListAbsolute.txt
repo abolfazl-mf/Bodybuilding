@@ -1,0 +1,14 @@
+D:\Users\PGSHCO\source\repos\Body Building Club\BLL\bin\Release\BLL.dll
+D:\Users\PGSHCO\source\repos\Body Building Club\BLL\bin\Release\BLL.pdb
+D:\Users\PGSHCO\source\repos\Body Building Club\BLL\bin\Release\BE.dll
+D:\Users\PGSHCO\source\repos\Body Building Club\BLL\bin\Release\DAL.dll
+D:\Users\PGSHCO\source\repos\Body Building Club\BLL\bin\Release\EntityFramework.dll
+D:\Users\PGSHCO\source\repos\Body Building Club\BLL\bin\Release\BE.pdb
+D:\Users\PGSHCO\source\repos\Body Building Club\BLL\bin\Release\DAL.pdb
+D:\Users\PGSHCO\source\repos\Body Building Club\BLL\bin\Release\DAL.dll.config
+D:\Users\PGSHCO\source\repos\Body Building Club\BLL\bin\Release\EntityFramework.xml
+D:\Users\PGSHCO\source\repos\Body Building Club\BLL\obj\Release\BLL.csprojAssemblyReference.cache
+D:\Users\PGSHCO\source\repos\Body Building Club\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+D:\Users\PGSHCO\source\repos\Body Building Club\BLL\obj\Release\BLL.csproj.CopyComplete
+D:\Users\PGSHCO\source\repos\Body Building Club\BLL\obj\Release\BLL.dll
+D:\Users\PGSHCO\source\repos\Body Building Club\BLL\obj\Release\BLL.pdb

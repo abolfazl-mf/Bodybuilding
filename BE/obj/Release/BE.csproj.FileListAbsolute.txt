@@ -1,0 +1,5 @@
+D:\Users\PGSHCO\source\repos\Body Building Club\BE\bin\Release\BE.dll
+D:\Users\PGSHCO\source\repos\Body Building Club\BE\bin\Release\BE.pdb
+D:\Users\PGSHCO\source\repos\Body Building Club\BE\obj\Release\BE.csproj.CoreCompileInputs.cache
+D:\Users\PGSHCO\source\repos\Body Building Club\BE\obj\Release\BE.dll
+D:\Users\PGSHCO\source\repos\Body Building Club\BE\obj\Release\BE.pdb
